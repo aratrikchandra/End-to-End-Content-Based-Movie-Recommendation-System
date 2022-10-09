@@ -1,10 +1,10 @@
-# End to End Content Based Movie Recomandation System Using Streamlit
+# End to End Content Based Movie Recommendation System Using Streamlit
 A Recommender system, or a recommendation system, is a subclass of information filtering system that seeks to predict the “rating” or “preference” a user would give to an item.Simply, Recommender systems aim to predict users’ interests and recommend product items that quite likely are interesting for them.
-Typically there are three types of recommendation system are there :
+Typically there are three types of recommendation system:
 <p align="center">
 <img src = "https://github.com/Arupsau/End-to-End-Movie-Recomandation-System-Using-Streamlit/blob/main/Images/Types-of-Recommendation-Systems.png">
 </p>
-In this recomandation system content based Recommandation system is used to recomand the movies.It uses attributes such as genre, director, description, actors, etc. for movies, to make suggestions for the users. The intuition behind this sort of recommendation system is that if a user liked a particular movie or show, he/she might like a movie or a show similar to it.
+In this recommendation system content based Recommendation system is used to Recommend the movies.It uses attributes such as genre, director, description, actors, etc. for movies, to make suggestions for the users. The intuition behind this sort of recommendation system is that if a user liked a particular movie or show, he/she might like a movie or a show similar to it.
 
 **Dataset :** 
 
@@ -30,11 +30,11 @@ I will be using (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) the T
 
 **Deployment :**
 
-Deployment is done using streamlit and make a web application movie recommandation system.
+Deployment is done using streamlit and make a web application movie Recommendation System.
 <p align="center">
 <img src = "https://github.com/Arupsau/End-to-End-Movie-Recomandation-System-Using-Streamlit/blob/main/Images/Recommandation_System.png">
 </p>
 
 **Future Work :**
 
-In future , I will try to use Collaborative Filtering and Hybrid Recommandation System. Also I will try to add description about the movies and  trailer of the particular recommanded movies using API fetch.
+In future , I will try to use Collaborative Filtering and Hybrid Recommendation System. Also I will try to add description about the movies and  trailer of the particular recommended movies using API fetch.
