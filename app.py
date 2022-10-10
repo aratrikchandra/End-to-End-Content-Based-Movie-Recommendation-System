@@ -24,7 +24,7 @@ def recommend(movie):
     return recommended_movie_names,recommended_movie_posters
 
 
-st.header('Movie Recommender System Designed By Arup')
+st.header('Movie Recommender System Designed By Aratrik')
 movies = pickle.load(open('model/movie_list.pkl','rb'))
 similarity = pickle.load(open('model/similarity.pkl','rb'))
 
